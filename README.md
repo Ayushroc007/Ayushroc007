@@ -3,7 +3,7 @@
 **Ayushroc007/Ayushroc007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Ayush](https://www.linkedin.com/in/ayush-burbure-2a3853176/), a DevOps Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about automation and committed to delivering secure and reliable systems with 2+ years of professional  working experience. 🎯
+I am [Ayush](https://www.linkedin.com/in/ayush-burbure-2a3853176/), a DevOps Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about automation and committed to delivering secure and reliable systems with 3+ years of professional  working experience. 🎯
 
 I mostly work with Python, Cloud based technologies.
 
